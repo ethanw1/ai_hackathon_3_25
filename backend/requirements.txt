@@ -1,0 +1,19 @@
+# Core libraries
+aiohttp==3.9.3
+asyncio==3.4.3
+numpy==1.26.3
+datetime==5.4
+
+# AI and Machine Learning
+openai==1.13.3
+cerebras-cloud-sdk==0.6.1
+arxiv==2.1.0
+
+# HTTP and server libraries
+urllib3==2.0.7
+
+# Type hinting
+typing-extensions==4.9.0
+
+# Utilities
+python-dotenv==1.0.1
